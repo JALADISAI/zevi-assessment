@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import "./App.css";
-import { MdFavoriteBorder } from "react-icons/md";
 
 function Products() {
   const [products, setProducts] = useState([]);
